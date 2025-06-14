@@ -1,0 +1,75 @@
+}
+.container {
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  text-align: center;
+  max-width: 400px;
+}
+.dark .container {
+  background: #333;
+}
+button {
+  background-color: #45b649;
+  color: white;
+  border: none;
+  padding: 12px 20px;
+  margin-top: 10px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+button:hover {
+  background-color: #379c3d;
+}
+input {
+  padding: 10px;
+  font-size: 14px;
+  margin: 10px 0;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+}
+  text-align: center;
+
+  max-width: 400px;
+
+}
+
+button {
+
+  background-color: #45b649;
+
+  color: white;
+
+  border: none;
+
+  padding: 15px 25px;
+
+  font-size: 16px;
+
+  border-radius: 10px;
+
+  cursor: pointer;
+
+  margin-top: 20px;
+
+  transition: background 0.3s ease;
+
+}
+
+button:hover {
+
+  background-color: #379c3d;
+
+}
+
+#plant-status {
+
+  font-size: 18px;
+
+  color: #333;
+
+  margin-top: 20px;
+
+}
